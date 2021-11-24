@@ -1,4 +1,5 @@
 This is a flask app based on my previous jupyter notebook project on pancard fraud detection using SSIM (https://github.com/AbhisekGanguly/pancard-fraud). This works on the principle of structural similarity index to find fradulant pan cards by differentiating it from the original PAN.
+
 *Step to run application:*
 
 Step 1:	Create the copy of the project.
